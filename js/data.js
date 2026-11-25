@@ -10,9 +10,9 @@ const SITE = {
   // WhatsApp number in international format, digits only (no + or spaces)
   whatsapp: "+233 592 354 383",
   // Phone number used for tel: links
-  phone: "+233 243 407 785","0592354383",
+  phone: "+233 243 407 785",
   // Phone number as shown on the page
-  phoneDisplay: "+233 243 407 785","0592354383",
+  phoneDisplay: "+233 592 354 383",
   email: "kojomike777@gmail.com",
   address: "Kwabenya - School Junction, Accra, Ghana",
   hours: "9:00 AM - 6:00 PM",
